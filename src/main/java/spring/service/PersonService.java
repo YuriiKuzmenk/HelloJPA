@@ -5,8 +5,6 @@ import org.springframework.stereotype.Service;
 import spring.domain.Person;
 import spring.repository.PersonRepository;
 
-import java.util.List;
-
 @Service
 public class PersonService {
 

@@ -1,5 +1,12 @@
 package spring;
 
+/**
+ * Java. Homework №37.
+ *
+ * @author Yurii Kuzmenko java_39e
+ * @version 23.03.2023 - 27.02.2023
+ */
+
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import spring.domain.Person;
 import spring.service.PersonService;
